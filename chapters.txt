@@ -1,1 +1,2 @@
 Finished Chapters: 
+- Chapter 2: Natours Project — Setup and First Steps (Part 1)
