@@ -31,7 +31,7 @@
 - Less Images
 - Compress images
 
-## How CSS Works Behind the Scenes
+## Chapter 3: How CSS Works Behind the Scenes
 
 ![Schermafbeelding 2023-06-09 075821](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/e04393ce-cbbd-478c-ae7c-6a87e686c57c)
 
