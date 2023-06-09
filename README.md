@@ -50,3 +50,11 @@
 ![slides-students-C04-28](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/9deb5001-f72a-4a88-bea9-416b4c52b108)
 
 ![slides-students-C04-29](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/d023d935-64f5-493a-814f-4b4c5d186887)
+
+### Value Processing
+
+![slides-students-C04-32](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/dfcf1732-e7a4-4eb0-81c8-6a061303eedc)
+
+![slides-students-C04-33](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/2b9ace27-c9dd-416a-b3f5-e596717e156f)
+
+![slides-students-C04-34](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/c175907c-9c06-4d84-9d99-f915b19a0fc6)
