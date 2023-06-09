@@ -91,16 +91,16 @@
 
 #### 3. Border-box (The Box Model With Box-sizing)
 
-![slides-students-C04-45](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/79131cef-317e-4343-8a2e-1e377a6e65ab)
+![slides-students-C04-45](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/8de94d2b-d3c1-4864-abf7-575300a25537)
 
 ### 2. Box Types: Inline, Block-level And Inline-block
 
-![slides-students-C04-46](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/5071ca79-cc07-4651-a1d8-122765ba6713)
+![slides-students-C04-46](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/07ff35af-1e49-4967-9a14-eb6009e48bd6)
 
 ### 3. Positioning Schemes: Normal Flow, Absolute Positioning And Floats
 
-![slides-students-C04-47](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/99d562a3-70c4-460b-9272-f33953faceb4)
+![slides-students-C04-47](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/e1daf29e-1fcc-45db-9745-fb947f3996ec)
 
 ### 4. Stacking Contexts
 
-![slides-students-C04-48](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/905cf62b-d1cf-48d3-b75f-30b5049a5e3d)
+![slides-students-C04-48](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/286ec82d-e9df-42d0-bc18-64141d4dacc4)
