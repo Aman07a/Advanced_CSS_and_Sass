@@ -104,3 +104,21 @@
 ### 4. Stacking Contexts
 
 ![slides-students-C04-48](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/286ec82d-e9df-42d0-bc18-64141d4dacc4)
+
+## CSS Architecture, Components and BEM
+
+### The Think - Build - Architect Mindset
+
+![slides-students-C04-50](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/328a6a85-2a08-420c-b4aa-e1c6cea82e63)
+
+### Thinking About The Layout
+
+![slides-students-C04-51](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/15be4151-f38d-4ec1-a4d3-3e53f2ce2939)
+
+### Building With Meaningful Class Names
+
+![slides-students-C04-52](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/85aea08e-1a42-40e6-8922-c03273611a2a)
+
+### Architecting With Files And Folders
+
+![slides-students-C04-53](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/433d9a93-16a9-4944-b059-f0c334bbf6b2)
