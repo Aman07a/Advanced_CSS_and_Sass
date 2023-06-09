@@ -58,3 +58,10 @@
 ![slides-students-C04-33](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/2b9ace27-c9dd-416a-b3f5-e596717e156f)
 
 ![slides-students-C04-34](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/c175907c-9c06-4d84-9d99-f915b19a0fc6)
+
+
+### Inheritance
+
+![slides-students-C04-33](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/9de70335-011f-4835-b1c8-89c8f3a8001f)
+
+![slides-students-C04-34](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/dc1a1fe1-65d6-4dab-bf06-a2377be435da)
