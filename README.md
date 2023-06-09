@@ -59,9 +59,48 @@
 
 ![slides-students-C04-34](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/c175907c-9c06-4d84-9d99-f915b19a0fc6)
 
-
 ### Inheritance
 
 ![slides-students-C04-33](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/9de70335-011f-4835-b1c8-89c8f3a8001f)
 
 ![slides-students-C04-34](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/dc1a1fe1-65d6-4dab-bf06-a2377be435da)
+
+## Converting px to rem: An Effective Workflow
+
+![slides-students-C04-39](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/6bf22c63-49a7-4f4e-b494-0cfef2c17765)
+
+## How CSS Renders a Website
+
+### Remember
+
+![slides-students-C04-41](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/2b86bf46-0d56-4c0f-a32c-b730e1c35795)
+
+### The Visual Formatting Model
+
+![slides-students-C04-42](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/6e19b976-2734-4c55-9ecf-4fb394939336)
+
+### 1. The Box Model
+
+#### 1. Introduction
+
+![slides-students-C04-43](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/8425039b-7e09-4f13-b518-a5b91f1564d3)
+
+#### 2. Heights And Widths
+
+![slides-students-C04-44](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/3b2f2d02-3d0f-4e10-aaa2-92cdf7484419)
+
+#### 3. Border-box (The Box Model With Box-sizing)
+
+![slides-students-C04-45](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/79131cef-317e-4343-8a2e-1e377a6e65ab)
+
+### 2. Box Types: Inline, Block-level And Inline-block
+
+![slides-students-C04-46](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/5071ca79-cc07-4651-a1d8-122765ba6713)
+
+### 3. Positioning Schemes: Normal Flow, Absolute Positioning And Floats
+
+![slides-students-C04-47](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/99d562a3-70c4-460b-9272-f33953faceb4)
+
+### 4. Stacking Contexts
+
+![slides-students-C04-48](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/905cf62b-d1cf-48d3-b75f-30b5049a5e3d)
