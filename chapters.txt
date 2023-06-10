@@ -1,3 +1,4 @@
 Finished Chapters:
 - Chapter 2: Natours Project — Setup and First Steps (Part 1)
 - Chapter 3: How CSS Works: A Look Behind the Scenes
+- Chapter 4: Introduction to Sass and NPM
