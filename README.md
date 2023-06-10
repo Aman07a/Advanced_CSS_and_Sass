@@ -136,3 +136,17 @@
 ### Sass And Scss: Clearing Up The Confusion
 
 ![slides-students-C04-61](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/45d6bc70-70a3-4cf3-a17a-43c683a48c6b)
+
+## Chapter 5: Natours Project — Using Advanced Css And Sass
+
+### Basic Responsive Design Principles
+
+![slides-students-C04-74](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/ffae432a-41bd-4b6f-b13f-57617169db7c)
+
+### Layout Types
+
+![slides-students-C04-75](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/6afcd6b3-0fda-4365-a336-4064b985d14a)
+
+### Why Use A Float Layout In This Project?
+
+![slides-students-C04-76](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/fa37056d-6f67-4bec-89ff-d61b07927b85)
