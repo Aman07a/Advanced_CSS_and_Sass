@@ -150,3 +150,7 @@
 ### Why Use A Float Layout In This Project?
 
 ![slides-students-C04-76](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/fa37056d-6f67-4bec-89ff-d61b07927b85)
+
+### What You Will Learn In This Lecture
+
+![slides-students-C04-78](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/fc85547f-bcb6-4619-9678-0fbb1dbe160c)
