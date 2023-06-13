@@ -154,3 +154,25 @@
 ### What You Will Learn In This Lecture
 
 ![slides-students-C04-78](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/fc85547f-bcb6-4619-9678-0fbb1dbe160c)
+
+## Chapter 6: Natours Project — Advanced Responsive Design
+
+### Responsive Design Strategies
+
+![slides-students-C04-109](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/e1a29731-4885-4ca9-bb15-0f840c9bd845)
+
+### Responsive Design Strategies: Max-width And Min-width
+
+![slides-students-C04-110](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/feb62743-d63f-4041-8d1d-eb748a72ba63)
+
+### Is Mobile-first Right For You?
+
+![slides-students-C04-111](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/cfac9ac4-c6e4-4410-948a-6fc51ae4ec8e)
+
+### Selecting Our Breakpoints: The Options
+
+![slides-students-C04-112](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/9b9de3a2-82f0-439c-99fd-9d031039b159)
+
+### Selecting Our Breakpoints: A Good Approach
+
+![slides-students-C04-113](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/f83e382b-d06f-4c2e-a30c-7fbae4955a20)
