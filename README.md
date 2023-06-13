@@ -122,3 +122,35 @@
 ### Architecting With Files And Folders
 
 ![slides-students-C04-53](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/433d9a93-16a9-4944-b059-f0c334bbf6b2)
+
+## Chapter 4: Introduction to Sass and NPM
+
+### What Is Sass And How Does It Work?
+
+![slides-students-C04-59](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/4c5bde6a-a2fe-4afc-8b46-8f19e1d5fb72)
+
+### Main Sass Features
+
+![slides-students-C04-60](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/d7197c0d-0f20-413b-a401-51088a00deb5)
+
+### Sass And Scss: Clearing Up The Confusion
+
+![slides-students-C04-61](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/45d6bc70-70a3-4cf3-a17a-43c683a48c6b)
+
+## Chapter 5: Natours Project — Using Advanced Css And Sass
+
+### Basic Responsive Design Principles
+
+![slides-students-C04-74](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/ffae432a-41bd-4b6f-b13f-57617169db7c)
+
+### Layout Types
+
+![slides-students-C04-75](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/6afcd6b3-0fda-4365-a336-4064b985d14a)
+
+### Why Use A Float Layout In This Project?
+
+![slides-students-C04-76](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/fa37056d-6f67-4bec-89ff-d61b07927b85)
+
+### What You Will Learn In This Lecture
+
+![slides-students-C04-78](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/fc85547f-bcb6-4619-9678-0fbb1dbe160c)
