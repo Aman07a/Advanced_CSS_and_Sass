@@ -176,3 +176,11 @@
 ### Selecting Our Breakpoints: A Good Approach
 
 ![slides-students-C04-113](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/f83e382b-d06f-4c2e-a30c-7fbae4955a20)
+
+### What Are Responsive Images Anyway?
+
+![slides-students-C04-120](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/ce98220a-964a-4422-8abf-349fecafe497)
+
+### When To Use Responsive Images: The 3 Use Cases
+
+![slides-students-C04-121](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/0277a2eb-564e-4aa7-bf57-f1a0786b2d96)
