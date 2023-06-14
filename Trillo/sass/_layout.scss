@@ -1,0 +1,22 @@
+.header {
+  font-size: 1.4rem;
+  height: 7rem;
+  background-color: #fff;
+  border-bottom: var(--line);
+}
+
+.content {
+  display: flex;
+}
+
+.sidebar {
+  background-color: var(--color-grey-dark-1);
+
+  flex: 0 0 18%;
+}
+
+.hotel-view {
+  background-color: #fff;
+
+  flex: 1;
+}
