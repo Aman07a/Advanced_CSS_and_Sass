@@ -3,3 +3,4 @@ Finished Chapters:
 - Chapter 3: How CSS Works: A Look Behind the Scenes
 - Chapter 4: Introduction to Sass and NPM
 - Chapter 5: Natours Project — Using Advanced CSS and Sass (Part 2)
+- Chapter 6: Natours Project — Advanced Responsive Design (Part 3)
