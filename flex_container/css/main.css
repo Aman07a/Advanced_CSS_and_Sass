@@ -7,18 +7,21 @@
 .container {
   background-color: #ccc;
   padding: 10px;
-  /* height: 1500px; */
+  height: 1000px;
 
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+
+  flex-wrap: wrap;
+  align-content: stretch;
 }
 
 .item {
   background-color: #f1425d;
   padding: 30px;
-  margin: 30px;
+  margin: 5px;
   color: #fff;
   font-size: 40px;
 }
@@ -29,7 +32,7 @@
   flex-basis: 300px;
   flex-shrink: 0; 
   */
-  flex: 0 0 300px;
+  flex: 0 1 300px;
 }
 
 .i3 {
@@ -38,6 +41,6 @@
 }
 
 .i4 {
-  align-self: flex-end;
+  /* align-self: flex-end; */
   order: -1;
 }
