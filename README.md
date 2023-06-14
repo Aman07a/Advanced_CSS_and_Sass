@@ -75,21 +75,19 @@
 
 ![slides-students-C04-41](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/2b86bf46-0d56-4c0f-a32c-b730e1c35795)
 
-#### The Visual Formatting Model
+### The Visual Formatting Model
 
 ![slides-students-C04-42](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/6e19b976-2734-4c55-9ecf-4fb394939336)
 
-#### 1. The Box Model
-
-##### 1. Introduction
+### 1. The Box Model
 
 ![slides-students-C04-43](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/8425039b-7e09-4f13-b518-a5b91f1564d3)
 
-##### 2. Heights And Widths
+### 2. Heights And Widths
 
 ![slides-students-C04-44](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/3b2f2d02-3d0f-4e10-aaa2-92cdf7484419)
 
-##### 3. Border-box (The Box Model With Box-sizing)
+### 3. Border-box (The Box Model With Box-sizing)
 
 ![slides-students-C04-45](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/8de94d2b-d3c1-4864-abf7-575300a25537)
 
@@ -97,11 +95,11 @@
 
 ![slides-students-C04-46](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/07ff35af-1e49-4967-9a14-eb6009e48bd6)
 
-#### 3. Positioning Schemes: Normal Flow, Absolute Positioning And Floats
+### 3. Positioning Schemes: Normal Flow, Absolute Positioning And Floats
 
 ![slides-students-C04-47](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/e1daf29e-1fcc-45db-9745-fb947f3996ec)
 
-#### 4. Stacking Contexts
+### 4. Stacking Contexts
 
 ![slides-students-C04-48](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/286ec82d-e9df-42d0-bc18-64141d4dacc4)
 
