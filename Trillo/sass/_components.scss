@@ -209,4 +209,24 @@
     letter-spacing: 1px;
     padding: 1.5rem 3rem;
   }
+
+  &__stars {
+  }
+
+  &__icon-star,
+  &__icon-location {
+    width: 1.75rem;
+    height: 1.75rem;
+    fill: var(--color-primary);
+  }
+
+  &__location {
+    display: flex;
+  }
+
+  &__icon-location {
+  }
+
+  &__rating {
+  }
 }
