@@ -182,3 +182,17 @@
 ### When To Use Responsive Images: The 3 Use Cases
 
 ![slides-students-C04-121](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/0277a2eb-564e-4aa7-bf57-f1a0786b2d96)
+
+## Chapter 7: Trillo Project — Master Flexbox!
+
+### A True Revolution
+
+![slides-students-C04-137](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/3edc2f06-0f37-43cb-9b12-17788f327a23)
+
+### Main Flexbox Concepts
+
+![slides-students-C04-138](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/9623addd-3ccc-4286-b9ca-9dda52049f9c)
+
+### Flexbox Properties Overview
+
+![slides-students-C04-139](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/cd354929-7373-4bbe-963e-9bae44051628)
