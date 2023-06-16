@@ -198,3 +198,19 @@
 ![slides-students-C04-139](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/cd354929-7373-4bbe-963e-9bae44051628)
 
 ## Chapter 8: A Quick Introduction to CSS Grid Layouts
+
+### A Whole New Mindset
+
+![slides-students-C04-172](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/8a25f660-38f1-439c-a911-3a2ab36f0fc5)
+
+![slides-students-C04-173](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/ee721abc-61d1-4ecb-a528-facecfce53fe)
+
+### CSS Grid Terminology
+
+![slides-students-C04-174](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/5c6fc112-1972-4e19-95c8-d57b7fad25eb)
+
+![slides-students-C04-175](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/b8a1257a-5ab2-4ccb-9348-a79745e9bbdc)
+
+### CSS Grid Properties Overview
+
+![slides-students-C04-176](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/427c1ccc-d9ee-4fac-884b-ca86ebb114e4)
