@@ -196,3 +196,5 @@
 ### Flexbox Properties Overview
 
 ![slides-students-C04-139](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/cd354929-7373-4bbe-963e-9bae44051628)
+
+## Chapter 8: A Quick Introduction to CSS Grid Layouts
