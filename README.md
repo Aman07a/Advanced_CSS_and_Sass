@@ -214,3 +214,9 @@
 ### CSS Grid Properties Overview
 
 ![slides-students-C04-176](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/427c1ccc-d9ee-4fac-884b-ca86ebb114e4)
+
+## Chapter 9: Nexter Project — Master CSS Grid Layouts!
+
+### What You Will Learn In This Lecture
+
+![slides-students-C04-194](https://github.com/Aman07a/Advanced_CSS_and_Sass/assets/60389872/1b580864-0624-4f38-ab16-fe0d4f521ff3)
