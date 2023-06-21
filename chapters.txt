@@ -6,3 +6,4 @@ Finished Chapters:
 - Chapter 6: Natours Project — Advanced Responsive Design (Part 3)
 - Chapter 7: Trillo Project — Master Flexbox!
 - Chapter 8: A Quick Introduction to CSS Grid Layouts
+- Chapter 9: Nexter Project — Master CSS Grid Layouts!
